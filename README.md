@@ -1,7 +1,6 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-RameswarMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/rameswar-mishra-3756944b?/)](https://in.linkedin.com/in/rameswar-mishra-3756944b?/)
-
 [![Website Badge](https://img.shields.io/badge/StackOverflow-RameswarMishra-yellow)](https://stackoverflow.com/users/21843625/rameswar-mishra)
 
 I'm 
